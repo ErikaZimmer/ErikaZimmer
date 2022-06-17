@@ -15,8 +15,6 @@
 
 
 ### Technologies & softwares:
-![image](https://user-images.githubusercontent.com/55201104/174331199-76420161-8550-4f4c-bd50-9ad910731d6f.png) ![image](https://user-images.githubusercontent.com/55201104/174331244-e8ec6c11-79ee-4aec-a43d-10e3bb92fec8.png)
-
 
 ### Social networks:
 
