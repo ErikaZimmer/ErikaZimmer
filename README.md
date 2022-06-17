@@ -137,9 +137,9 @@
 
 - 😄 I'm Erika Zimmer
 - 🌍 I'm based in Villa Giardino, Cordoba, ARG
-- 🚀 I’m currently working on GroovinAds
+- 🚀 I’m currently working for GroovinAds
 - 📒 I’m currently learning about Backend Programming at CoderHouse
-- 🦄 I used to work in TiendaNube 
+- 🦄 I used to work for TiendaNube 
 - 👯 I’m collaborate on Nube Community
 - 💬 Languages: Spanish, English and German
 - 🌈 My favorite color: Blue. The blue of the sky.
@@ -150,10 +150,10 @@
 
 ### Something else
 
-<p>I am a cheerful and persevering person. I like challenges and learning new things. I enjoy teamwork and talking. I believe that actions show our character much better than words.</p>
-<p>I currently work helping big brands to boost the results of their advertising campaigns with Artificial Intelligence. It sounds great and it is. In my day to day I accompany our clients to specify the campaigns from start to finish, I document the different functionalities of our tools and I accompany our new members in their onboarding.</p>
+<p>I am a cheerful and persistent person. I like challenges and learning new things. I enjoy teamwork and talking. I believe that actions show our character much better than words.</p>
+<p>I currently work helping big brands to boost the results of their advertising campaigns with Artificial Intelligence. It sounds great and it is. In my day to day I help our clients to specify the campaigns from start to finish, I document the different functionalities of our tools and I support our new members in their onboarding.</p>
 <p><strong>What does the future hold for me?</strong> I don't know.</p>
-<p><strong>Where would I like to see myself?</strong> Programming and learning even more.</p>
+<p><strong>Where would I like to see myself?</strong> Doing code development and learning even more.</p>
 
 ### Social media:
 <p align="left">
