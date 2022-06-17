@@ -13,30 +13,111 @@
 - 🏠 I live with my husband, our 2 cats (Asuna and Ryuu) and 3 dogs (Luna, Akane and Temblor).
 - 📫 How to reach me: erikasusanazimmer@gmail.com
 
+
+### Social media
+<p align="left">
+  <a href="https://fb.com/erikazimm" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erikazimm" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/zimmererika" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zimmererika" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/erika-zimmer-132949a2" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erika-zimmer-132949a2" height="30" width="40" />
+  </a>
+  <a href="https://open.spotify.com/user/21yrmezsy3dwfwh3f76gmc65i2" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/55201104/174333986-26c7cc9f-960a-4372-bdcb-4173c920eca0.png" alt="Spotify" height="30" width="30" />
+  </a>
+</p>
+
+
+### Languages and Tools:
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+</p>
+<p align="left"> 
+  <a href="https://codepen.io/erikazimm" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="erikazimm"      height="40" width="40" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/55201104/174332607-f4aaa646-4726-458a-bdec-981291ec9544.png" alt="github" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://slack.com/intl/es-ar/" target="_blank" rel="noreferrer"> 
+    <img src="https://a.slack-edge.com/80588/marketing/img/icons/icon_slack_hash_colored.png" alt="Slack" width="40" height="40"/> 
+  </a> 
+  <a href="https://asana.com/es" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.slack-edge.com/2021-11-01/2672890963171_7010e3c61fd59a0e601c_512.png" alt="Asana" width="40" height="40"/> 
+  </a>
+  <a href="https://osticket.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://pbs.twimg.com/profile_images/576199903421931520/iO20RxoP_400x400.png" alt="osticket" width="40" height="40"/> 
+  </a>
+  <a href="https://www.hubspot.es/" target="_blank" rel="noreferrer"> 
+    <img src="https://assets-global.website-files.com/6030eb20edb267a2d11d31f6/607d2a9a1c6cc6351c0f218c_hubspot-1.svg" alt="Hubspot" width="40" height="40"/> 
+  </a>
+  <a href="https://www.intercom.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.intercom.com/_next/static/images/intercom-logo-7b36b3b2916d7eaacad8cbcec92ead24.png" alt="intercom" width="40" height="40"/> 
+  </a>
+  <a href="http://chartio.com/" target="_blank" rel="noreferrer"> 
+    <img src="http://chartio.com/logo/icon.svg" alt="chartio" width="40" height="40"/> 
+  </a>
+  <a href="https://amplitude.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.martechforum.com/wp-content/uploads/2016/10/amplitude-300x300.png" alt="amplitude" width="40" height="40"/> 
+  </a>
+ </p> 
+ <p align="left"> 
+   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/55201104/174332644-3e0d1370-39b9-4473-90ac-2a3789a02784.png" alt="Photoshop" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.adobe.com/uk/products/photoshop-lightroom-classic.html" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/55201104/174332795-9bb3ec1d-d06d-44dd-b03d-c94a73b13362.png" alt="lightroom" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.adobe.com/uk/products/bridge.html" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/55201104/174332849-b6282ac0-e4cb-47b5-b572-b6460fbb8d1d.png" alt="bridge" width="40" height="40"/> 
+  </a> 
+  <a href="https://spark.adobe.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/55201104/174332922-a31c4aea-6821-4806-871d-4162dddf47d5.png" alt="spark" width="40" height="40"/> 
+  </a> 
+   <a href=https://www.canva.com/es_us/" target="_blank" rel="noreferrer"> 
+    <img src="https://static.canva.com/static/images/android-192x192-2.png" alt="canva" width="40" height="40"/> 
+  </a> 
+</p> 
+                                                                                                              
+### Me in Github:
+                
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaZimmer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikaZimmer)](https://github.com/anuraghazra/github-readme-stats)
-
-# !!! ### Technologies & softwares:
-![image](https://user-images.githubusercontent.com/55201104/174332371-ae83abd2-86c9-41e8-b0b6-b11514266529.png)
-![image](https://user-images.githubusercontent.com/55201104/174332426-91e18a48-c6a0-45da-a21d-b391985c56f6.png)
-![image](https://user-images.githubusercontent.com/55201104/174333024-d1cb15ec-4dc1-4dac-a6b9-8e0b8038ae86.png)
-![image](https://user-images.githubusercontent.com/55201104/174332496-f6601e63-7b96-4245-a65f-3b3b9845afd4.png)
-![image](https://user-images.githubusercontent.com/55201104/174333097-6dd188dd-f272-497d-bdcd-d6299035fc26.png)
-![image](https://user-images.githubusercontent.com/55201104/174332572-7384dd91-baf1-4262-8b01-3cc9803ea709.png)
-![image](https://user-images.githubusercontent.com/55201104/174332607-f4aaa646-4726-458a-bdec-981291ec9544.png)
-![image](https://user-images.githubusercontent.com/55201104/174332644-3e0d1370-39b9-4473-90ac-2a3789a02784.png)
-![image](https://user-images.githubusercontent.com/55201104/174332795-9bb3ec1d-d06d-44dd-b03d-c94a73b13362.png)
-![image](https://user-images.githubusercontent.com/55201104/174332849-b6282ac0-e4cb-47b5-b572-b6460fbb8d1d.png)
-![image](https://user-images.githubusercontent.com/55201104/174332922-a31c4aea-6821-4806-871d-4162dddf47d5.png)
-
-### Social networks:
-![image](https://user-images.githubusercontent.com/55201104/174333846-5d558424-b901-48da-a2d8-238f97981cff.png)
-![image](https://user-images.githubusercontent.com/55201104/174333876-3ade4b66-bc7e-48d1-a183-0efa3828903f.png)
-![image](https://user-images.githubusercontent.com/55201104/174333912-f97eeb3f-4eb2-4b9a-98d7-0b60e6f31ea1.png)
-![image](https://user-images.githubusercontent.com/55201104/174333986-26c7cc9f-960a-4372-bdcb-4173c920eca0.png)
-
-### Others:
-![image](https://user-images.githubusercontent.com/55201104/174333724-fe839c9a-c501-49c3-bc54-2c5bc8c50ed7.png)
-![image](https://user-images.githubusercontent.com/55201104/174333605-641dab14-b479-458c-a25c-37227917d031.png)
-![image](https://user-images.githubusercontent.com/55201104/174333630-96deff2e-41ad-4614-90a8-ea945103f332.png)
-![image](https://user-images.githubusercontent.com/55201104/174333660-eee165bc-b31e-4b82-911b-0de421912625.png)
-![image](https://user-images.githubusercontent.com/55201104/174333699-8e139fa9-4e1d-467c-83fa-5eb804989e1e.png) !!!
