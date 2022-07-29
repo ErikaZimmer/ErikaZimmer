@@ -140,7 +140,7 @@
 - 🚀 I’m currently working for GroovinAds
 - 📒 I’m currently learning about Backend Programming at CoderHouse
 - 🦄 I used to work for TiendaNube 
-- 👯 I’m collaborate on Nube Community
+- 👯 I collaborate in Nube Community
 - 💬 Languages: Spanish, English and German
 - 🌈 My favorite color: Blue. The blue of the sky.
 - 🔮 My dream: Travel and learn about other cultures and lifestyles. Meet lots of new people and create new memories with them.
