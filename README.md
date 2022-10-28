@@ -25,16 +25,16 @@
 ### Mis redes sociales:
 <p align="left">
   <a href="https://fb.com/erikazimm" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erikazimm" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erikazimm" height="30" width="40" target:"_blank"/>
   </a>
   <a href="https://instagram.com/zimmererika" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zimmererika" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zimmererika" height="30" width="40" target:"_blank"/>
   </a>
   <a href="https://linkedin.com/in/erika-zimmer-132949a2" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erika-zimmer-132949a2" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erika-zimmer-132949a2" height="30" width="40" target:"_blank"/>
   </a>
   <a href="https://open.spotify.com/user/21yrmezsy3dwfwh3f76gmc65i2" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/55201104/174333986-26c7cc9f-960a-4372-bdcb-4173c920eca0.png" alt="Spotify" height="30" width="30" />
+    <img align="center" src="https://user-images.githubusercontent.com/55201104/174333986-26c7cc9f-960a-4372-bdcb-4173c920eca0.png" alt="Spotify" height="30" width="30" target:"_blank"/>
   </a>
 </p>
 
