@@ -143,7 +143,7 @@
 
 - 😄 I'm Erika Zimmer.
 - 🌍 I'm based in Villa Giardino, Cordoba, ARG.
-- 📒 I’m currently learning about Backend Programming at CoderHouse.
+- 📒 I'm currently studying a Sommelier degree at the EAS.
 - 🦄 I used to work for TiendaNube and GroovinAds.
 - 👯 I collaborate in Nube Community.
 - 💬 Languages: Spanish, English and German.
