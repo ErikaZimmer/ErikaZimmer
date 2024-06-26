@@ -2,13 +2,12 @@
 
 # ¡Hola! Algo sobre mi... 👋
 
-- 😄 Soy Erika Zimmer
-- 🌍 Vivo en Villa Giardino, Córdoba, ARG
-- 🚀 Actualmente estoy trabajando en GroovinAds
-- 📒 Actualmente estoy aprendiendo sobre Programación Backend en CoderHouse
-- 🦄 Trabajaba en TiendaNube
-- 👯 Colaboro en Nube Community
-- 💬 Idiomas: español, inglés y alemán
+- 😄 Soy Erika Zimmer.
+- 🌍 Vivo en Villa Giardino, Córdoba, ARG.
+- 📒 Actualmente estoy estudiando la carrera de Sommelier en la EAS. 
+- 🦄 Trabajaba en TiendaNube y GroovinAds.
+- 👯 Colaboro en Nube Community.
+- 💬 Idiomas: español, inglés y alemán.
 - 🌈 Mi color favorito: Azul. El azul del cielo.
 - 🔮 Mi sueño: Viajar y conocer otras culturas y estilos de vida. Conocer a mucha gente nueva y crear nuevos recuerdos con ellos.
 - ✨ Dato gracioso: Quiero ser vegetariana pero no me gustan las verduras.
@@ -18,9 +17,10 @@
 ### Algo más
 
 <p>Soy una persona alegre y perseverante. Me gustan los retos y aprender cosas nuevas. Me gusta el trabajo en equipo y hablar. Creo que las acciones muestran nuestro carácter mucho mejor que las palabras.</p>
-<p>Actualmente trabajo ayudando a grandes marcas a potenciar los resultados de sus campañas publicitarias con Inteligencia Artificial. Suena genial y lo es! En mi día a día acompaño a nuestros clientes a concretar sus campañas de principio a fin, documento las diferentes funcionalidades de nuestras herramientas y acompaño a nuestros nuevos miembros en su onboarding.</p>
+<p>En mi ultima experiencia laboral pasé por distintos roles. Uno de ellos fue ayudar a grandes marcas a potenciar los resultados de sus campañas publicitarias con Inteligencia Artificial. Suena genial y lo es! En mi día a día acompañaba a nuestros clientes a concretar sus campañas de principio a fin. Por otro lado, cree desde cero la documentación de las diferentes funcionalidades de nuestras herramientas y el proceso de onboarding para los nuevos miembros, acompañando su proceso paso a paso.</p>
+<p>Luego de esta experiencia me tomé una pausa para poder enfocarme en mis estudios y en algunos temas familiares que por suerte ya estan en orden.</p>
 <p><strong>¿Qué me depara el futuro?</strong> No lo sé.</p>
-<p><strong>¿Dónde me gustaría verme?</strong> Programando y aprendiendo aún más 💪</p>
+<p><strong>¿Dónde me gustaría verme?</strong> Ayudando e impulsando a otros a alcanzar la mejor versión de si mismos. Y, al mismo tiempo, siguiendo aprendiendo y creciendo para alcanzar la mia. 💪</p>
 
 ### Mis redes sociales:
 <p align="left">
@@ -141,13 +141,12 @@
 
 # Hi there! Something about me... 👋 
 
-- 😄 I'm Erika Zimmer
-- 🌍 I'm based in Villa Giardino, Cordoba, ARG
-- 🚀 I’m currently working for GroovinAds
-- 📒 I’m currently learning about Backend Programming at CoderHouse
-- 🦄 I used to work for TiendaNube 
-- 👯 I collaborate in Nube Community
-- 💬 Languages: Spanish, English and German
+- 😄 I'm Erika Zimmer.
+- 🌍 I'm based in Villa Giardino, Cordoba, ARG.
+- 📒 I’m currently learning about Backend Programming at CoderHouse.
+- 🦄 I used to work for TiendaNube and GroovinAds.
+- 👯 I collaborate in Nube Community.
+- 💬 Languages: Spanish, English and German.
 - 🌈 My favorite color: Blue. The blue of the sky.
 - 🔮 My dream: Travel and learn about other cultures and lifestyles. Meet lots of new people and create new memories with them.
 - ✨ Fun fact: I want to be a vegetarian but I don't like vegetables.
@@ -156,10 +155,11 @@
 
 ### Something else
 
-<p>I am a cheerful and persistent person. I like challenges and learning new things. I enjoy teamwork and talking. I believe that actions show our character much better than words.</p>
-<p>I currently work helping big brands to boost the results of their advertising campaigns with Artificial Intelligence. It sounds great and it is. In my day to day I help our clients to specify the campaigns from start to finish, I document the different functionalities of our tools and I support our new members in their onboarding.</p>
+<p>I am a happy and persevering person. I like challenges and learning new things. I like teamwork and talking. I believe that actions show our character much better than words.</p>
+<p>In my last work experience I went through different roles. One of them was helping big brands boost the results of their advertising campaigns with Artificial Intelligence. It sounds great and it is! In my day-to-day life I accompanied our clients to carry out their campaigns from start to finish. On the other hand, create from scratch the documentation of the different functionalities of our tools and the onboarding process for new members, accompanying their process step by step.</p>
+<p>After this experience I took a break so I could focus on my studies and some family issues that luckily are now in order.</p>
 <p><strong>What does the future hold for me?</strong> I don't know.</p>
-<p><strong>Where would I like to see myself?</strong> Doing code development and learning even more.</p>
+<p><strong>Where would I like to see myself?</strong> Helping and encouraging others to achieve the best version of themselves. And, at the same time, continuing to learn and grow to achieve mine. 💪</p>
 
 ### Social media:
 <p align="left">
