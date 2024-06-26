@@ -157,7 +157,7 @@
 
 <p>I am a happy and persevering person. I like challenges and learning new things. I like teamwork and talking. I believe that actions show our character much better than words.</p>
 <p>In my last work experience I went through different roles. One of them was helping big brands boost the results of their advertising campaigns with Artificial Intelligence. It sounds great and it is! In my day-to-day life I accompanied our clients to carry out their campaigns from start to finish. On the other hand, create from scratch the documentation of the different functionalities of our tools and the onboarding process for new members, accompanying their process step by step.</p>
-<p>After this experience I took a break so I could focus on my studies and some family issues that luckily are now in order.</p>
+<p>After this experience I took a break so I could focus on my studies and some family issues that luckily are in order now.</p>
 <p><strong>What does the future hold for me?</strong> I don't know.</p>
 <p><strong>Where would I like to see myself?</strong> Helping and encouraging others to achieve the best version of themselves. And, at the same time, continuing to learn and grow to achieve mine. 💪</p>
 
