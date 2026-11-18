@@ -2,7 +2,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d3557,50:6ec4b8,100:f7e4e6&height=190&section=header&text=Erika%20Zimmer&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Product%20Lead%20·%20CX%20y%20Onboarding%20·%20Sommelier&descSize=16&descAlignY=58" width="100%" alt="Banner Erika Zimmer" />
 </div>
-
+<p align="center">
+  <i>Transformo procesos complejos en experiencias simples, humanas y escalables.</i>
+</p>
 <p align="center">
   <i>Construyo tecnología y experiencias que acercan el mundo del vino a las personas, combinando visión de producto, detalle operativo y cercanía humana.</i>
 </p>
@@ -12,6 +14,16 @@
   <img src="https://img.shields.io/badge/CX_y_Producto-+6_Años_SaaS-6ec4b8?style=for-the-badge&labelColor=1d3557" alt="CX y Producto" />
   <img src="https://img.shields.io/badge/Viticultura-Sommelier-f7e4e6?style=for-the-badge&labelColor=1d3557" alt="Sommelier" />
 </p>
+
+---
+
+### 🌿 Quién soy y cómo miro las cosas
+
+Si tuviera que definirme en una palabra, soy **exploradora**. Llevo más de seis años trabajando en entornos **SaaS y eCommerce**, acompañando a personas, equipos y marcas a adoptar tecnología sin que el proceso se sienta frío ni cuesta arriba.
+
+Hoy formo parte del equipo especializado de soporte para Partners y clientes estratégicos en **Tiendanube**, un lugar al que elegí volver porque me desafía a sostener estándares altos todos los días. Mi enfoque parte siempre desde una mirada analítica, mucha atención al detalle y una búsqueda constante de mejoras en cada proceso que toco.
+
+> *“Simplificar lo complejo no es solo ser creativos, es conectar de verdad.”*
 
 ---
 
@@ -42,7 +54,7 @@ Una aplicación educativa gamificada diseñada para transformar el aprendizaje d
 #### 🏛️ The Wine Master Hub
 La plataforma de servicios y conexión pensada para el sector vitivinícola. Un espacio donde traslado mi experiencia en **Customer Experience, eCommerce y estrategia digital** para ayudar a las bodegas a profesionalizar su presencia online, optimizar sus canales directos y comunicar sus etiquetas de forma cercana y efectiva.
 
-> *“Simplificar lo complejo no es solo ser creativos, es conectar de verdad.”*
+> *“Trabajamos en construir puentes entre lo técnico y lo humano para que las experiencias digitales —y una buena copa de vino— se entiendan y se disfruten de verdad.”*
 
 ---
 
