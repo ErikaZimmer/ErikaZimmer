@@ -38,8 +38,6 @@ Hoy mis esfuerzos están puestos en construir y escalar dos productos complement
 
 #### 🎮 The Wine Master Game
 Una aplicación educativa gamificada diseñada para transformar el aprendizaje del vino en una experiencia interactiva, accesible y libre de tecnicismos rígidos.
-* **Propuesta:** Un recorrido estructurado en **10 niveles** que guía al usuario desde lo sensorial hasta conceptos técnicos de viticultura y cata.
-* **Tracción:** Validada en el mercado con **más de 300 usuarios activos** que aprenden jugando.
 
 #### 🏛️ The Wine Master Hub
 La plataforma de servicios y conexión pensada para el sector vitivinícola. Un espacio donde traslado mi experiencia en **Customer Experience, eCommerce y estrategia digital** para ayudar a las bodegas a profesionalizar su presencia online, optimizar sus canales directos y comunicar sus etiquetas de forma cercana y efectiva.
