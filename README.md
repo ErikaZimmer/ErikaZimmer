@@ -58,7 +58,7 @@ La plataforma de servicios y conexión pensada para el sector vitivinícola. Un 
 
 ---
 
-### 🧩 Cómo trabajo
+### 🧩 Cómo trabajamos
 
 * **Visión híbrida (Tech + Vino):** Entiendo la lógica detrás de los productos digitales y conozco el lenguaje, los tiempos y la identidad del sector vitivinícola.
 * **Obsesión por la experiencia de usuario:** Cada pantalla, guía o flujo está pensado para evitar fricciones, acompañar al usuario desde el primer clic y sostener estándares altos de calidad (`+90% CSAT` en trayectoria SaaS).
